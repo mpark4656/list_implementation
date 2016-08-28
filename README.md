@@ -5,6 +5,8 @@ Linked List ADT provides a doubly-linked list and operations. This is not the ac
 
 ********Currently Supported Operations********
 
+forward iterator and reverse iterator
+
 begin()
 
 end()
@@ -37,6 +39,3 @@ erase( fromItr , toItr )
 
 
 
-*****UPCOMING*****
-
-Implementation for reverse_iterator and const_reverse_iterator
