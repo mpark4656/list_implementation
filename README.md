@@ -21,5 +21,6 @@ Linked List ADT provides a doubly-linked list and operations. This is not the ac
 - erase( itr )
 - erase( fromItr , toItr )
 
-
+## In Progress
+- Support for Brace-Enclosed Initializer
 
