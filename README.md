@@ -3,7 +3,7 @@ Practice creating List ADT
 
 Linked List ADT provides a doubly-linked list and operations. This is not the actual implementation of STL List but provides similar operations.
 
-********Currently Supported Operations********
+## Supported Operations
 - forward iterator and reverse iterator
 - begin()
 - end()
