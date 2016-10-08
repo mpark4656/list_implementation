@@ -1,5 +1,5 @@
 # list_implementation
-Practice creating List ADT
+Practice implementing Linked List Data Structure
 
 Linked List ADT provides a doubly-linked list and operations. This is not the actual implementation of STL List but provides similar operations.
 
